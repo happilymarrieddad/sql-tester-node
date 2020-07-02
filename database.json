@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "host": "localhost",
+        "user": "root",
+        "password" : "test",
+        "database": "tester",
+        "driver": "mysql",
+        "port": 9306,
+        "multipleStatements": true
+    }
+}
